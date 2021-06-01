@@ -1,0 +1,20 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "basketball.arreferenceimage"
+    },
+    {
+      "filename" : "batman.arreferenceimage"
+    },
+    {
+      "filename" : "football.arreferenceimage"
+    },
+    {
+      "filename" : "hulk.arreferenceimage"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "basketball.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "width" : 20.307692307692307
+  }
+}

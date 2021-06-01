@@ -1,10 +1,5 @@
-//
 //  AppDelegate.swift
-//  Poke3D
-//
-//  Created by Angela Yu on 20/07/2018.
-//  Copyright © 2018 London App Brewery. All rights reserved.
-//
+
 
 import UIKit
 
@@ -16,6 +11,16 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        
+//        UIColor.self *ios7BlueColor = [UIColor colorWithRed:0.0 green:122.0/255.0 blue:1.0 alpha:1.0];
+        let col = UIColor(red: 0, green: 0.48, blue: 1, alpha: 1)
+        
+        let attrs = [
+          NSAttributedString.Key.foregroundColor: col
+        ]
+
+        UINavigationBar.appearance().titleTextAttributes = attrs
+        
         return true
     }
 
