@@ -13,9 +13,13 @@ It detects the image stored in the assets and renders a model that is assigned t
 ## Screenshots
 
 ![h](h.png)
+![fb](fb.PNG)
 ![q1](q1.png)
+![bb](bb.PNG)
 ![q2](q2.png)
+![bm](bm.PNG)
 ![q3](q3.png)
+![hk](hk.PNG)
 ![q4](q4.png)
 
 
